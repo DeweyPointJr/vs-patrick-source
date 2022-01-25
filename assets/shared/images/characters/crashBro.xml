@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="crashBro.png"><SubTexture name="Dad idle dance0000" x="0" y="0" width="478" height="395" frameX="0" frameY="0" frameWidth="478" frameHeight="395" />
+<SubTexture name="Dad idle dance0001" x="478" y="0" width="478" height="395" frameX="0" frameY="0" frameWidth="478" frameHeight="395" />
+<SubTexture name="Dad idle dance0002" x="956" y="0" width="478" height="395" frameX="0" frameY="0" frameWidth="478" frameHeight="395" />
+<SubTexture name="Dad idle dance0003" x="1434" y="0" width="478" height="395" frameX="0" frameY="0" frameWidth="478" frameHeight="395" />
+<SubTexture name="Dad idle dance0004" x="0" y="395" width="478" height="395" frameX="0" frameY="0" frameWidth="478" frameHeight="395" />
+<SubTexture name="Dad Song Note DOWN0000" x="478" y="395" width="478" height="395" frameX="0" frameY="0" frameWidth="478" frameHeight="395" />
+<SubTexture name="Dad Song Note DOWN0001" x="956" y="395" width="478" height="395" frameX="0" frameY="0" frameWidth="478" frameHeight="395" />
+<SubTexture name="Dad Song Note DOWN0002" x="1434" y="395" width="478" height="395" frameX="0" frameY="0" frameWidth="478" frameHeight="395" />
+<SubTexture name="Dad Song Note RIGHT0000" x="0" y="790" width="547" height="395" frameX="0" frameY="0" frameWidth="547" frameHeight="395" />
+<SubTexture name="Dad Song Note RIGHT0001" x="547" y="790" width="547" height="395" frameX="0" frameY="0" frameWidth="547" frameHeight="395" />
+<SubTexture name="Dad Song Note RIGHT0002" x="1094" y="790" width="547" height="395" frameX="0" frameY="0" frameWidth="547" frameHeight="395" />
+<SubTexture name="Dad Song Note LEFT0000" x="1641" y="790" width="558" height="395" frameX="0" frameY="0" frameWidth="558" frameHeight="395" />
+<SubTexture name="Dad Song Note LEFT0001" x="0" y="1185" width="558" height="395" frameX="0" frameY="0" frameWidth="558" frameHeight="395" />
+<SubTexture name="Dad Song Note LEFT0002" x="558" y="1185" width="558" height="395" frameX="0" frameY="0" frameWidth="558" frameHeight="395" />
+<SubTexture name="Dad Song Note UP0000" x="1116" y="1185" width="478" height="544" frameX="0" frameY="0" frameWidth="478" frameHeight="544" />
+<SubTexture name="Dad Song Note UP0001" x="1594" y="1185" width="478" height="544" frameX="0" frameY="0" frameWidth="478" frameHeight="544" />
+<SubTexture name="Dad Song Note UP0002" x="0" y="1729" width="478" height="544" frameX="0" frameY="0" frameWidth="478" frameHeight="544" />
+</TextureAtlas>
